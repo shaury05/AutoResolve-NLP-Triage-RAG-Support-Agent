@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+transformers
+sentence-transformers
+faiss-cpu
+scikit-learn
+accelerate
