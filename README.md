@@ -52,4 +52,3 @@ To run this application locally on your machine:
 
 ---
 Developed by **Shaury Pratap Singh** as part of the Master of Science in Data Science program at the New Jersey Institute of Technology (NJIT).
-```
