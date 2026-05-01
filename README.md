@@ -24,7 +24,7 @@ I built **AutoResolve** to completely eliminate this manual bottleneck. Instead 
 
 ## 📂 Project Structure
 * `streamlit_app.py`: The production-ready Streamlit web application logic.
-* `AutoResolve_NLP_Shaury_Singh.ipynb`: The complete training pipeline, including dataset preprocessing (custom Regex masking), mathematical baselines (TF-IDF/SVM), and DistilBERT fine-tuning.
+* `AutoResolve_NLP_Shaury_Singh.ipynb`: The complete training pipeline, including dataset preprocessing (custom Regex masking), mathematical baselines (TF-IDF/SVM), and DistilBERT fine-tuning. *(Note: The GitHub version has cleared outputs to meet file size limits. **[View the full notebook with all training outputs and charts here](https://drive.google.com/file/d/1xKIzkyQuxoRcSgEM0WdYI-jHTUpfSUtQ/view?usp=drive_link)**).*
 * `Shaury_Final_NLP.pdf`: The comprehensive academic report detailing the project's methodology, architecture, hardware optimization, and qualitative error analysis.
 * `requirements.txt`: Environment dependencies.
 
@@ -51,4 +51,5 @@ To run this application locally on your machine:
    ```
 
 ---
-Developed by **Shaury Pratap Singh** as part of the Master of Science in Data Science program at the New Jersey Institute of Technology (NJIT).
+*Developed by **Shaury Pratap Singh** as part of the Master of Science in Data Science program at the New Jersey Institute of Technology (NJIT).*
+```
